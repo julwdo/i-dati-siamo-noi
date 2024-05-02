@@ -1,0 +1,49 @@
+#Esercizio 1
+Creare tre vettori di lunghezza 5 e combinare i tre vettori in una matrice 5x3
+
+
+#Esercizio 2
+Creare una matrice 5x5 con i numeri da 1 a 25
+
+
+#Esercizio 3
+Creare un dataframe con 5 osservazioni e 2 variabili
+
+
+#Esercizio 4
+Creare un dataframe con i nomi di 3 studenti nella prima colonna 
+le loro età nella seconda colonna e i loro voti nella terza colonna
+
+
+#Esercizio 5
+Controllare quali valori nella matrice dell'esercizio 1 sono diversi da 30
+
+
+#Esercizio 6
+Assegnare a due variabili "57" (come stringa) e 13 (come numero) e sommarle
+
+
+#Esercizio 7
+Accedere all'elemento nella seconda riga e nella terza colonna del dataframe dell'esercizio 4
+
+
+#Esercizio 8
+Selezionare i valori nella seconda colonna superiori a 20 del dataframe dell'esercizio 4
+
+
+#Esercizio 9
+Selezionare le righe con voti superiori a 28 del dataframe dell'esercizio 4
+
+
+#Esercizio 10
+Creare una tabella come segue
+
+nome <- c("Giulia", "Francesca", "Marco", "Vittorio")
+ore_studio <- c(20, 14, 6, 16)
+voto <- c(10, 8, 4, 6)
+tabella <- data.frame(nome, ore_studio, voto)
+
+Creare una nuova colonna con i voti al quadrato
+Calcolare la media dei voti
+Sommare i voti al quadrato e dividerli per il numero di ossservazioni
+Calcolare la differenza tra la media dei voti quadrati e il quadrato della media dei voti
