@@ -1,0 +1,1 @@
+Slides and student presentations created for the *I Dati Siamo Noi* ("We Are the Data") project, part of the *Coding Girls* initiative, promoted by Fondazione Mondo Digitale in collaboration with the Società Italiana di Statistica.
